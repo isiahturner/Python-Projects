@@ -11,4 +11,5 @@ while play == 1:
             pass
 
     print(counter)
+    print(" ")
     play = 0
