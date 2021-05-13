@@ -196,19 +196,3 @@ while start == True:
             showBoard(board)
             start = game_on()
             counter = 10
-
-
-#board = ['X', 'O', 'X', 'X', 'O', 'O', 'O', 'X', 'O']
-#playerDict = {0: 'X', 1: 'O'}
-# showBoard(board)
-#print(winConCheck(board, playerDict, 9))
-
-
-# Checking to see whether playerMove function worked properly
-# board = ['X', '2', '3', '4', '5', '6', '7', '8', '9']
-# usedMoves = [1]
-# counter = 3
-# playerDict = {0: 'X', 1: 'O'}
-# usedMoves, board = playerMove(usedMoves, board, playerDict, counter)
-# print(usedMoves)
-# print(board)
