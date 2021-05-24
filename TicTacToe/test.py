@@ -1,6 +1,6 @@
 # Initializing Variables needed for the game: turn counter, board
 counter = 0
-board = [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
+board = [1, ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
 
 
 def game_on():
